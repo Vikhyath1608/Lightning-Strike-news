@@ -35,3 +35,6 @@ If the Model needs to be Trained
 - Run the training script:
   ```bash
   python Train_model/NLP_model_train.py
+-Input: Training Dataset - Dataset/Train_data.csv
+-Output: Trained Model - Trained_Model/lightning_strike_classifier2
+-Note: The repository already contains a pre-trained model. Run this step only if you need to train a new model.
