@@ -33,9 +33,8 @@ Ensure you have the following dependencies installed:
 
 ## Installation
 - Clone the repository:
- ```bash
- git clone https://github.com/yourusername/lightning-strike-classifier.git
-
+   ```bash
+  git clone https://github.com/yourusername/lightning-strike-classifier.git
 Install the required dependencies as listed in the Requirements section.
 
 ## Process
