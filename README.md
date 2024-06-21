@@ -62,3 +62,21 @@ Install the required dependencies as listed in the Requirements section.
 - Output: Rendered HTML page displayed at
   ```bash
   http://127.0.0.1:5000
+  
+## Usage Notes
+- To directly run the application, use:
+  ```bash
+  python app.py
+- To train the model, use:
+  ```bash
+  python Train_model/NLP_model_train.py
+- To update the Database manually, use:
+  ```bash
+  python Main.py
+- To automatically update the database every 24 hours, use:
+  ```bash
+  python scheduler.py
+
+## Contact
+- For support or inquiries:
+Email: vikhyathraims0109@gmail.com
