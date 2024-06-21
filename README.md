@@ -1,5 +1,7 @@
 # Lightning Strike Classifier
 
+![Alt Text](https://img.freepik.com/free-vector/lightning-thunderbolt-from-thunderstorm-cloud-illustration_1441-2391.jpg)
+
 ## Table of Contents
 - [About](#about)
 - [Requirements](#requirements)
