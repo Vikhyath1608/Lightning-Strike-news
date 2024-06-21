@@ -4,7 +4,7 @@
 - [About](#about)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Process](#process)
+- [Process](#Process)
   - [Training the Model](#training-the-model)
   - [Running the Extractor](#running-the-extractor)
   - [Running the Application](#running-the-application)
@@ -28,3 +28,6 @@ Ensure you have the following dependencies installed:
   pip install trafilatura beautifulsoup4 requests newspaper3k transformers torch feedparser psycopg2-binary folium opencage langdetect
   pip install schedule
   pip install flask
+
+##Process
+### Training the Model
