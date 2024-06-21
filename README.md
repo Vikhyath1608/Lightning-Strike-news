@@ -31,3 +31,7 @@ Ensure you have the following dependencies installed:
 
 ## Process
 ### Training the Model
+If the Model needs to be Trained
+- Run the training script:
+  ```bash
+  python Train_model/NLP_model_train.py
