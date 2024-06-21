@@ -37,4 +37,4 @@ If the Model needs to be Trained
   python Train_model/NLP_model_train.py
 - Input: Dataset/Train_data.csv
 - Output: rained_Model/lightning_strike_classifier2
-- Note: The repository already contains a pre trained model. Run this step only if you need to train a new model.
+- **Note**: The repository already contains a pre trained model. Run this step only if you need to train a new model.
