@@ -29,5 +29,5 @@ Ensure you have the following dependencies installed:
   pip install schedule
   pip install flask
 
-##Process
+## Process
 ### Training the Model
