@@ -1,6 +1,6 @@
 # Lightning Strike MAP
 
-![Alt Text]([https://img.freepik.com/free-vector/lightning-thunderbolt-from-thunderstorm-cloud-illustration_1441-2391.jpg](https://t3.ftcdn.net/jpg/05/62/58/24/360_F_562582424_bwgTtM5hpznLoDBgitUKH0Xc1oTyZI6Z.jpg))
+![Alt Text](https://t3.ftcdn.net/jpg/05/62/58/24/360_F_562582424_bwgTtM5hpznLoDBgitUKH0Xc1oTyZI6Z.jpg)
 
 ## Table of Contents
 - [About](#about)
