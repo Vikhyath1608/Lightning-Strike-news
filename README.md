@@ -31,6 +31,11 @@ Ensure you have the following dependencies installed:
   pip install schedule
   pip install flask
 
+## Installation
+- Clone the repository:
+ ```bash
+ git clone https://github.com/yourusername/lightning-strike-classifier.git
+Install the required dependencies as listed in the Requirements section.
 ## Process
 ### Training the Model
 - Run the training script:
