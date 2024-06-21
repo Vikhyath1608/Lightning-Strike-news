@@ -11,7 +11,6 @@
   - [Running the Extractor](#running-the-extractor)
   - [Running the Application](#running-the-application)
 - [Usage Notes](#usage-notes)
-- [License](#license)
 - [Contact](#contact)
 
 ## About
@@ -45,3 +44,21 @@ Install the required dependencies as listed in the Requirements section.
 - Input: Dataset/Train_data.csv
 - Output: rained_Model/lightning_strike_classifier2
 - **Note**: The repository already contains a pre trained model. Run this step only if you need to train a new model.
+
+### Running the Extractor
+- To extract and update the database:
+  ```bash
+  python scheduler.py
+- This will trigger Main.py every 24 hours and update the database.
+- Input: Trained_Model/lightning_strike_classifier2, Input/Input_rss.csv
+- Output: Database/news_data.db
+- **Note** : The database already contains extracted content. Run this step only if the database needs to be updated.
+
+### Running the Application
+- To run the web application:
+  ```bash
+  python app.py 
+- Input: Database/news_data.db
+- Output: Rendered HTML page displayed at
+  ```bash
+  http://127.0.0.1:5000
